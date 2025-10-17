@@ -48,8 +48,7 @@
 | Module | Completion Date | Hours Spent | Key Takeaways |
 |--------|----------------|-------------|--------------|
 | Module 0: Introduction to EdgeAI | | |  - |
-| Module 1: EdgeAI Fundamentals | | | 01 Definition of Edge AI, Torch Code for Model Quantization/Compression, GPU Acceleration, CPU Optimization, 5G networks hybrid (cloud + edge), 
-                                      02 Model specification (ex: speed benchmark), optimization techniques by hardware, metrics definition, Deployment Patterns and Best Practices  |
+| Module 1: EdgeAI Fundamentals | | | 01 Definition of Edge AI, Torch Code for Model Quantization/Compression, GPU Acceleration, CPU Optimization, 5G networks hybrid (cloud + edge) 02 Model specification (ex: speed benchmark), optimization techniques by hardware, metrics definition, Deployment Patterns and Best Practices  |
 | Module 2: SLM Foundations | | | |
 | Module 3: SLM Deployment | | | |
 | Module 4: Model Optimization (6 frameworks) | | | |
