@@ -47,7 +47,7 @@
 
 | Module | Completion Date | Hours Spent | Key Takeaways |
 |--------|----------------|-------------|--------------|
-| Module 0: Introduction to EdgeAI | | | |
+| Module 0: Introduction to EdgeAI | | |Edge AI refers to the deployment and execution of artificial intelligence algorithms directly on edge devices—the physical hardware that exists at the "edge" of the network, close to where data is generated and collected |
 | Module 1: EdgeAI Fundamentals | | | |
 | Module 2: SLM Foundations | | | |
 | Module 3: SLM Deployment | | | |
