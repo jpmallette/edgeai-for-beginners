@@ -47,8 +47,9 @@
 
 | Module | Completion Date | Hours Spent | Key Takeaways |
 |--------|----------------|-------------|--------------|
-| Module 0: Introduction to EdgeAI | | |Edge AI refers to the deployment and execution of artificial intelligence algorithms directly on edge devices—the physical hardware that exists at the "edge" of the network, close to where data is generated and collected |
-| Module 1: EdgeAI Fundamentals | | | |
+| Module 0: Introduction to EdgeAI | | |  - |
+| Module 1: EdgeAI Fundamentals | | | 01 Definition of Edge AI, Torch Code for Model Quantization/Compression, GPU Acceleration, CPU Optimization, 5G networks hybrid (cloud + edge), 
+                                      02 Model specification (ex: speed benchmark), optimization techniques by hardware, metrics definition, Deployment Patterns and Best Practices  |
 | Module 2: SLM Foundations | | | |
 | Module 3: SLM Deployment | | | |
 | Module 4: Model Optimization (6 frameworks) | | | |
